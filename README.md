@@ -30,8 +30,7 @@ _Actual dashboard showing multi-source health data integration._
 ---
 
 ## 🌟 Project Overview
-This is a **production-ready health data analytics platform** demonstrating advanced data engineering and visualization.  
-It integrates **four data sources** and presents analytics for **6 key Ethiopian regions**, relevant to institutions such as **EPHI (Ethiopian Public Health Institute)**.
+This is a **production-ready health data analytics platform** demonstrating advanced data engineering and visualization. It integrates **four data sources** and presents analytics for **6 key Ethiopian regions**, relevant to institutions such as **EPHI (Ethiopian Public Health Institute)**.
 
 ---
 
