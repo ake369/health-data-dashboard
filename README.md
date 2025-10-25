@@ -80,3 +80,47 @@ CORS: Flask-CORS enabled
   - Oracle: Disease Statistics & Epidemiology
   - SQL Server: Hospital Performance Metrics
   - CSV: Public Health Survey Data
+
+### 🚀 Quick Start Guide
+## 🔧 Prerequisites
+ - Python 3.10+
+ - React + Recharts
+ - VS Code (recommended)
+ - Modern browser (chrome recommended)
+
+1️⃣ Clone and Setup
+```yaml
+git clone https://github.com/ake369/health-data-dashboard.git
+cd health-data-dashboard
+```
+2️⃣ Backend Setup
+```yaml
+cd backend
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate (Windows)
+pip install -r requirements.txt
+python app.py
+# ✅ Runs at http://localhost:5000
+```
+3️⃣ Frontend Setup
+```yaml
+cd frontend
+npm install
+npm start
+# ✅ Runs at http://localhost:3000
+```
+
+### 🚀 Deployment Options
+## Local
+```yaml
+# Run backend
+cd backend 
+python app.py
+# Run frontend
+cd frontend 
+npm start
+```
+
+### Contact
+📧 Email: ake.abrish@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/akaluabraham/
