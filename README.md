@@ -59,7 +59,6 @@ This is a **production-ready health data analytics platform** demonstrating adva
 ## 🛠️ Technology Stack
 
 ### 🔹 Backend (Flask)
-```yaml
 Framework: Flask 2.3.3 (Python)
 Database Connectors:
   - MySQL: mysql-connector-python
