@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Logs and temp
+*.log
+*.tmp
+*.pid
+*.bak
+*.swp
+
+# Test and coverage
+.coverage
+htmlcov/
+pytest_cache/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / Editor
+.vscode/
+.idea/
