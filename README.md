@@ -69,7 +69,6 @@ API: RESTful JSON API
 CORS: Flask-CORS enabled
 
 ### 🔹 Frontend (React + Recharts)
-```yaml
   - Framework: React 18.2.0
   - Visualization: Recharts 2.8.0
   - HTTP Client: Axios 1.5.0
@@ -77,8 +76,7 @@ CORS: Flask-CORS enabled
   - Build Tool: Create React App
 
 ### 🔹 Data Sources
-```yaml
-- MySQL: Patient Demographics & Regional Data
-- Oracle: Disease Statistics & Epidemiology
-- SQL Server: Hospital Performance Metrics
-- CSV: Public Health Survey Data
+  - MySQL: Patient Demographics & Regional Data
+  - Oracle: Disease Statistics & Epidemiology
+  - SQL Server: Hospital Performance Metrics
+  - CSV: Public Health Survey Data
