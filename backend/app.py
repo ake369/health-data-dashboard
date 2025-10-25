@@ -74,7 +74,6 @@ def get_all_data():
             "total_surveys": len(csv_data)
         }
     }
-    
     return jsonify(consolidated)
 
 if __name__ == '__main__':

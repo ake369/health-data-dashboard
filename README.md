@@ -60,13 +60,13 @@ This is a **production-ready health data analytics platform** demonstrating adva
 
 ### 🔹 Backend (Flask)
 Framework: Flask 2.3.3 (Python)
-Database Connectors:
+* Database Connectors:
   - MySQL: mysql-connector-python
   - Oracle: cx_Oracle
   - SQL Server: pyodbc
   - CSV: pandas
-API: RESTful JSON API
-CORS: Flask-CORS enabled
+* API: RESTful JSON API
+* CORS: Flask-CORS enabled
 
 ### 🔹 Frontend (React + Recharts)
   - Framework: React 18.2.0
