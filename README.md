@@ -21,7 +21,7 @@ A comprehensive full-stack health data engineering platform integrating multiple
 
 🎯 **Interactive Health Data Visualization**
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Health+Data+Dashboard+Screenshot)
+![Dashboard Screenshot](screenshot/ScreenshotDashboard.png)
 
 _Actual dashboard showing multi-source health data integration._
 
@@ -43,16 +43,16 @@ This is a **production-ready health data analytics platform** demonstrating adva
 
 ---
 
-## 🗺️ Supported Ethiopian Regions
+## 🗺️ Supported Ethiopian Regions (Synthetic data)
 
 | Region        | Capital       | Health Index | Vaccination |
 |----------------|----------------|---------------|--------------|
-| Addis Ababa   | Addis Ababa   | 85 | 78% |
-| Amhara        | Bahir Dar     | 72 | 65% |
-| Dire Dawa     | Dire Dawa     | 80 | 74% |
-| Oromia        | Addis Ababa   | 75 | 68% |
-| SNNPR         | Hawassa       | 70 | 62% |
-| Tigray        | Mekelle       | 78 | 71% |
+| Addis Ababa   | Addis Ababa   | 65 | 78% |
+| Amhara        | Bahir Dar     | 56 | 65% |
+| Dire Dawa     | Dire Dawa     | 60 | 64% |
+| Oromia        | Adama         | 58 | 58% |
+| SNNPR         | Hawassa       | 65 | 52% |
+| Tigray        | Mekelle       | 62 | 61% |
 
 ---
 
