@@ -1,0 +1,23 @@
+# Node and Python common
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+# Virtual environment
+venv/
+env/
+.env/
+/.venv/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
